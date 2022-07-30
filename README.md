@@ -22,7 +22,7 @@
           - 핵심 키워드는 동일하지만 긍/부정을 다르게 하여 제작
   - 합성 데이터셋 제작 및 모델 추가학습
 
-      ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acad9765-4190-4caa-8c7b-4d2fc22b947a/Untitled.png)
+      ![Untitled (1)](https://user-images.githubusercontent.com/59131645/181934416-7281432a-f931-4d54-b3ae-20e320422c19.png)
 
       - 참고 자료 : [https://jiho-ml.com/weekly-nlp-37/](https://jiho-ml.com/weekly-nlp-37/)
       - 25000개의 가짜뉴스 제작 : validation accuracy는 약간 떨어졌지만, 샘플 데이터에 대한 정답 비율은 높아짐. 기존 데이터셋으로 학습이 잘 된 모델에 효과적이었음.(lstm, bert)
